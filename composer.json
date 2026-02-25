@@ -1,6 +1,10 @@
 {
-    "name": "api-backend",
-    "description": "API de pagamentos",
+    "name": "kevin/abacash-api",
+    "description": "API Abacash para integracao de pagamentos",
     "type": "project",
-    "require": {}
+    "license": "MIT",
+    "require": {},
+    "scripts": {
+        "start": "php -S 0.0.0.0:8080 index.php"
+    }
 }
