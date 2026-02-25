@@ -1,2 +1,2 @@
 <?php
-require_once 'pix.php'; // ou orion.php / pixgo.php / abacash.php
+require_once 'abacash.php'; // ← era 'pix.php', agora é 'abacash.php'
