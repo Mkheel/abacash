@@ -1,0 +1,6 @@
+{
+    "name": "api-backend",
+    "description": "API de pagamentos",
+    "type": "project",
+    "require": {}
+}
